@@ -1,5 +1,8 @@
-# Memo_git  
-## Configuration :  
+# Git
+
+## Memo Git
+
+### Configuration :  
 
 ```git config --global user.name "pseudo"```
 
@@ -9,13 +12,13 @@
 
 ```git config --global merge.tool filemerge```
 
-## Lister les branches :
+### Lister les branches :
 
 ```git branch -a```
 
 ```*```sur la branche courante.
 
-## Créer une branche
+### Créer une branche
 
 ```git branch``` nom_de_ma_branch_nouvelle
 
@@ -67,7 +70,7 @@
 
 ```working directory``` : Ce que l'on voit dans la branche actuelle.
 
-#### ⚠️Toujours effectuer un commit avant de push/pull ou changer de branche
+### ⚠️Toujours effectuer un commit avant de push/pull ou changer de branche
 
 
 ### 🚨Staging area : 
