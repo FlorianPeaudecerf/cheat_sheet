@@ -1,4 +1,5 @@
-# Basic Syntax
+# MARKDOWN CHEAT SHEET
+## Basic Syntax
 | command | description |
 |---------|--------------------------------|
 | Heading | # h1, ## h2, ### h3            |
@@ -12,7 +13,7 @@
 |   Link      |   [title](https://www.example.com)                             |
 |  Image       |     ![alt text](image.jpg)                           |
 
-# Extended Syntax
+## Extended Syntax
 | command | description |
 |---------|--------------------------------|
 | Table   | Syntax                         |
