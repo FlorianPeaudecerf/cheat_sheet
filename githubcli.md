@@ -21,4 +21,4 @@
 - gh --version
 - gh help
 - gh <pr | issue | repo> --help
-- gh <pr | issue | repo> <command> --help
+- gh <pr | issue | repo> 'command' --help
