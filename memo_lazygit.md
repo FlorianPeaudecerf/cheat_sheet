@@ -1,3 +1,4 @@
+# LAZYGIT CHEAT SHEET
 | P | Push |  
 | p | Pull |  
 | R | Refresh |  
