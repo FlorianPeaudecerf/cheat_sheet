@@ -2,7 +2,6 @@
 ## LOCAL
 | command | description |
 |---------|-------------|
-
 |   r      |   Refresh files         |
 |    q     |    Quit         |
 |   esc      |   Cancel          |
