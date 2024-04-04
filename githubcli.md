@@ -18,3 +18,7 @@
 - gh repo fork 'repo'
 - gh repo view 'repo'
 ### GITHUB COMMAND
+- gh --version
+- gh help
+- gh <pr | issue | repo> --help
+- gh <pr | issue | repo> <command> --help
