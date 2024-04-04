@@ -1,24 +1,32 @@
 # GITHUB CLI CHEAT SHEET  
-### GITHUB PULL REQUEST  
-- gh pr status
-- gh pr list
-- gh pr list -s all
-- gh pr view ['number' | 'url' | 'branch']
-- gh pr checkout
-- gh pr create -t 'title' -b 'body'
+### GITHUB PULL REQUEST
+| command |description  |
+|---------|-------------|
+|gh pr status      |Show status of relevant pull requests             |
+|gh pr list         |List open pull requests in repo             |
+|gh pr list -s all         |List all pull requests in repo|
+|gh pr view ['number'  'url'  'branch']         |View a pull request             |
+| gh pr checkout        |Checkout a pull request in Git             |
+| gh pr create -t 'title' -b 'body'        |Create a new pull request|
 ### GITHUB ISSUES
-- gh issue status
-- gh issue list
-- gh issue list -s all
-- gh view ['number' | 'url']
-- gh issue create -t 'title' -b 'body'
+| command | description |
+|---------|-------------|
+| gh issue status        |Show status of relevant issues             |
+| gh issue list        |List open issues in repo             |
+| gh issue list -s all        |List all issues in repo             |
+| gh view ['number' 'url']        |View an issue             |
+|gh issue create -t 'title' -b 'body'         |Create a new issue|
 ### GITHUB REPOSITORIES
-- gh repo clone 'repo'
-- gh repo create 'name repo'
-- gh repo fork 'repo'
-- gh repo view 'repo'
+| command | description |
+|---------|-------------|
+|gh repo clone 'repo'         |Clone a repository locally             |
+| gh repo create 'name repo'        |Create a new repository             |
+| gh repo fork 'repo'        |Create a fork or a repository             |
+| gh repo view 'repo'        |View a repository             |
 ### GITHUB COMMAND
-- gh --version
-- gh help
-- gh <pr | issue | repo> --help
-- gh <pr | issue | repo> 'command' --help
+| command | description |
+|---------|-------------|
+| gh --version        |Display GitHub CLI version             |
+| gh help        |Show help info             |
+| gh <pr  issue  repo> --help        |Show help info for a specific command group             |
+| gh <pr  issue  repo> 'command' --help        |Show help info for a specific command             |
