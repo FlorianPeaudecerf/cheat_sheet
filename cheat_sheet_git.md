@@ -1,8 +1,5 @@
-# Git
-
-## Memo Git
-
-### Configuration :  
+# GIT CHEAT SHEET
+## Configuration :  
 
 ```git config --global user.name "pseudo"```
 
@@ -12,13 +9,13 @@
 
 ```git config --global merge.tool filemerge```
 
-### Lister les branches :
+## Lister les branches :
 
 ```git branch -a```
 
 ```*```sur la branche courante.
 
-### Créer une branche
+## Créer une branche
 
 ```git branch``` nom_de_ma_branch_nouvelle
 
