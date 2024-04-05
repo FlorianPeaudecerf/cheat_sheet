@@ -1,4 +1,4 @@
-# GITHUB CLI CHEAT SHEET  
+# GITHUB CLI CHEAT SHEET  ![curl -o badge.svg](https://img.shields.io/badge/githubcli%20%20-purple?style=for-the-badge&logo=github)
 ### GITHUB PULL REQUEST
 | command |description  |
 |---------|-------------|
