@@ -1,4 +1,4 @@
-# MARKDOWN CHEAT SHEET
+# MARKDOWN CHEAT SHEET  ![curl -o badge.svg](https://img.shields.io/badge/markdown%20%20-crimson?style=for-the-badge&logo=markdown)
 ## Basic Syntax
 | command | description |
 |---------|--------------------------------|
