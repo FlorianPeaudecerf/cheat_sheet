@@ -1,4 +1,4 @@
-# GIT CHEAT SHEET       ![curl -o badge.svg](https://img.shields.io/badge/GIT%20%20-orange?style=for-the-badge&logo=git)
+# GIT CHEAT SHEET ![curl -o badge.svg](https://img.shields.io/badge/GIT%20%20-orange?style=for-the-badge&logo=git)
 ## Configuration :  
 
 ```git config --global user.name "pseudo"```
