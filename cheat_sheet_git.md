@@ -61,7 +61,7 @@
 
 ```git stash``` : Aide à enregistrer les changements qui ne doivent pas être 'commit' immédiatement.
 
-```git show``` : Pour afficher des informations ssur tout fichier git.
+```git show``` : Pour afficher des informations sur tout fichier git.
 
 ```git grep "www.hostinger.com"``` : Permet de chercher des mots et/ou des expressions.
 
