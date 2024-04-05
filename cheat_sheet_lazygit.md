@@ -1,4 +1,4 @@
-# LAZYGIT CHEAT SHEET
+# LAZYGIT CHEAT SHEET   ![curl -o badge.svg](https://img.shields.io/badge/lazygit%20%20-skyblue?style=for-the-badge&logo=git)
 ## LOCAL
 | command | description |
 |---------|-------------|
