@@ -31,5 +31,5 @@
 ## Global
 |command   |description|
 |----------|----------|
-|   P       |  Push            |
-|    p     |     Pull        |
+|   (P)    |  Push           |
+|    (p)  |     Pull        |
