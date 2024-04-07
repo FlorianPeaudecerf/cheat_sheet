@@ -69,7 +69,12 @@
 |```git config --global core.excludesfile [file]```      |system wide ignore pattern for all local repositories             |
 |```logs/.notes pattern/```         |  Save a file with desired patterns as .gitignore with either direct string
 matches or wildcard globs.
-## ANOTHER COMMANDS           
+## ANOTHER COMMANDS 
+| command | description |
+|:-------:|-------------|
+|   git cherry-pick <hash-du-commit>      |  Is a command used in Git to apply a specific commit from one branch onto another branch           |
+|         |             |
+|         |             |
 ### ⚠️Always commit before pushing/pulling or switching branches.
 
 
