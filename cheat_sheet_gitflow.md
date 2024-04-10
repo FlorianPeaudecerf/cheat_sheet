@@ -53,3 +53,5 @@ Start a hotfix :
 
 Finish a hotfix : 
 ```git flow hotfix finish <version_name>```
+
+
